@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 167 161"
+   height="161mm"
+   width="167mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient872">
+      <stop
+         id="stop868"
+         offset="0"
+         style="stop-color:#fffb2a;stop-opacity:1;" />
+      <stop
+         id="stop870"
+         offset="1"
+         style="stop-color:#fffb2a;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0738673,-1.2290515e-8,0,0.98709746,-6.7744065,2.0719845)"
+       r="77.198185"
+       fy="216.5"
+       fx="83.5"
+       cy="216.5"
+       cx="83.5"
+       id="radialGradient874"
+       xlink:href="#linearGradient872" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-136)"
+     id="layer1">
+    <path
+       d="M 147.67098,281.34647 93.082608,229.8356 124.49157,298.00258 88.492676,232.1441 97.299618,306.68065 83.414025,232.92124 68.756864,306.53121 78.34379,232.09096 41.65727,297.56889 73.778281,229.73453 18.653534,280.67098 70.164401,226.08261 1.9974226,257.49157 67.855903,221.49268 -6.6806491,230.29962 67.078758,216.41402 -6.5312105,201.75686 67.909039,211.34379 2.4311102,174.65727 70.265471,206.77828 19.329019,151.65353 73.917392,203.1644 42.50843,134.99742 l 35.998894,65.85848 -8.806942,-74.53655 13.885593,73.75941 14.657161,-73.60997 -9.586926,74.44025 36.68652,-65.47793 -32.121011,67.83436 55.124751,-50.93645 -51.510871,54.58837 68.166981,-31.40896 -65.858483,35.99889 74.536553,-8.80694 -73.759408,13.8856 73.609968,14.65716 -74.440249,-9.58693 65.477929,36.68652 -67.834361,-32.12101 z"
+       id="path866"
+       style="opacity:0.842;fill:url(#radialGradient874);fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3.96850467;stroke-opacity:1;paint-order:normal" />
+  </g>
+</svg>
